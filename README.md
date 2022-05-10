@@ -21,11 +21,23 @@ Here are some ideas to get you started:
 
 **I'm Ned, a Web learner✨**
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=wangenze267&left_color=#2C3E50&right_color=#007ACC)
+
+**Technology Stack:**
+
+![example](https://img.shields.io/badge/-HTML5-2C3E50?style=for-the-badge?style=flat&logo=HTML5)![example](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge?style=flat&logo=CSS3)![example](https://img.shields.io/badge/-JavaScript-2C3E50?style=for-the-badge?style=flat&logo=JavaScript)
+
+![example](https://img.shields.io/badge/-Git-2C3E50?style=for-the-badge?style=flat&logo=Git)![example](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge?style=flat&logo=Visual Studio Code)
+
 **My-Sites：**
 
 - My-Home-Page：[Ned ](https://www.wangez.site/)👀
 - My-Blog：[Ned-Blog](https://blog.wangez.site/)🐾
 - My-Juejin: [Ned-Juejin](https://juejin.cn/user/105972016875911)🎐
+
+---
+
+<div align="left"> <img src="https://metrics.lecoq.io/wangenze267?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai"> </div>
 
 ---
 
