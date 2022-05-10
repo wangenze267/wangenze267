@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![example](https://img.shields.io/badge/-HTML5-2C3E50?style=for-the-badge?style=flat&logo=HTML5)![example](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge?style=flat&logo=CSS3)![example](https://img.shields.io/badge/-JavaScript-2C3E50?style=for-the-badge?style=flat&logo=JavaScript)
 
-![example](https://img.shields.io/badge/-Git-2C3E50?style=for-the-badge?style=flat&logo=Git)![example](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge?style=flat&logo=VisualStudioCode) 
+![example](https://img.shields.io/badge/-Git-2C3E50?style=for-the-badge?style=flat&logo=Git)![example](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge?style=flat&logo=VisualStudioCode) 
 
 **My-Sites：**
 
