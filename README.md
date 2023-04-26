@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### About Me
 
-**I'm Ned, a Web learner✨**
+**I'm Ned, a front-end learner✨**
 
 I'm a passionate **front-end** working my way up to **full-stack** developer🔖
 
