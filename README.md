@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 **I'm Ned, a Web learner✨**
 
-✔我是一个充满激情的**前端**，正在努力迈向**全栈**开发人员
+✔I'm a passionate **front-end** working my way up to **full-stack** developer
 
-✔我目前正在学习**ReactJS** ，**NodeJS**
+✔I'm currently learning **ReactJS**, **NodeJS**
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=wangenze267&left_color=#2C3E50&right_color=#007ACC)
 
