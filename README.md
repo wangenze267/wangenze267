@@ -38,6 +38,7 @@ I'm currently learning **ReactJS**, **NodeJS**🚀
 - My-Home-Page：[Ned ](https://www.wangez.site/)👀
 - My-Blog：[Ned-Blog](https://blog.wangez.site/)🐾
 - My-Juejin: [Ned-Juejin](https://juejin.cn/user/105972016875911)🎐
+- My-Note: [Ned-Note](https://note.wangez.site/)📓
 
 ---
 
