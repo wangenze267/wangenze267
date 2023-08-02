@@ -25,7 +25,6 @@ I'm a passionate **front-end** working my way up to **full-stack** developer🔖
 
 I'm currently learning **ReactJS**, **NodeJS**🚀
 
- ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=wangenze267&repo=wangenze267)
  ![](https://api.visitorbadge.io/api/VisitorHit?user=wangenze267&repo=github-visitors-badge&countColor=%237B1E7A)
 
 **Technology Stack:**
