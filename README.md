@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello ( 你好 )
 
 <!--
 **wangenze267/wangenze267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### About Me
+#### About Me ( 关于我 )
 
 **I'm Ned, a front-end learner✨**
 
@@ -27,11 +27,11 @@ I'm currently learning **ReactJS**, **NodeJS**🚀
 
  ![](https://api.visitorbadge.io/api/VisitorHit?user=wangenze267&repo=github-visitors-badge&countColor=%237B1E7A)
 
-**Technology Stack:**
+**Technology Stack：**
 
-![example](https://img.shields.io/badge/-HTML5-2C3E50?style=for-the-badge?style=flat&logo=HTML5)![example](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge?style=flat&logo=CSS3)![example](https://img.shields.io/badge/-JavaScript-2C3E50?style=for-the-badge?style=flat&logo=JavaScript)![example](https://img.shields.io/badge/-Vue.js-2C3E50?style=for-the-badge?style=flat&logo=Vue.js)
+![example](https://img.shields.io/badge/-HTML5-2C3E50?style=for-the-badge?style=flat&logo=HTML5)![example](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge?style=flat&logo=CSS3)![example](https://img.shields.io/badge/-JavaScript-2C3E50?style=for-the-badge?style=flat&logo=JavaScript)![example](https://img.shields.io/badge/-TypeScript-2C3E50?style=for-the-badge?style=flat&logo=TypeScript)![example](https://img.shields.io/badge/-Vue.js-2C3E50?style=for-the-badge?style=flat&logo=Vue.js)![example](https://img.shields.io/badge/-React.js-2C3E50?style=for-the-badge?style=flat&logo=React)![example](https://img.shields.io/badge/-Node.js-2C3E50?style=for-the-badge?style=flat&logo=Node.js)
 
-![example](https://img.shields.io/badge/-Git-2C3E50?style=for-the-badge?style=flat&logo=Git)![example](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge?style=flat&logo=VisualStudioCode) 
+![example](https://img.shields.io/badge/-Git-2C3E50?style=for-the-badge?style=flat&logo=Git)![example](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge?style=flat&logo=VisualStudioCode) ![example](https://img.shields.io/badge/-Sublime-2C3E50?style=for-the-badge?style=flat&logo=Sublime Text)
 
 **My-Sites：**
 
