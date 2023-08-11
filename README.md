@@ -35,10 +35,10 @@ I'm currently learning **ReactJS**, **NodeJS**🚀
 
 **My-Sites：**
 
-- My-Home-Page：[Ned ](https://www.wangez.site/)👀
-- My-Blog：[Ned-Blog](https://blog.wangez.site/)🐾
-- My-Juejin: [Ned-Juejin](https://juejin.cn/user/105972016875911)🎐
-- My-Note: [Ned-Note](https://note.wangez.site/)📓
+- My-Home-Page：[Ned - 主页](https://www.wangez.site/)👀
+- My-Blog：[Ned-博客](https://blog.wangez.site/)🐾
+- My-Juejin: [Ned-掘金](https://juejin.cn/user/105972016875911)🎐
+- My-Note: [Ned-笔记](https://note.wangez.site/)📓
 
 ---
 
