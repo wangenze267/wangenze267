@@ -1,4 +1,4 @@
-### 👋 Hello ( 你好 )
+### 👋 Hi
 
 <!--
 **wangenze267/wangenze267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### About Me ( 关于我 )
+#### About Me 
 
 **I'm Ned, a front-end learner✨**
 
