@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **I'm Ned, a front-end learner✨**
 
-I'm a passionate **front-end** working my way up to **full-stack** developer🔖
+I'm a passionate **front-end** , working my way up to **full-stack** developer🔖
 
 I'm currently learning **ReactJS**, **NodeJS**🚀
 
