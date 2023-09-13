@@ -46,7 +46,7 @@ I'm currently learning **ReactJS**, **NodeJS**🚀
 
 ---
 
-**My Stats And Languages:**
+**My Stats And Juejin:**
 <table>
   <tr>
     <td>
