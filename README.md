@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm a passionate **front-end** , working my way up to **full-stack** developer🔖
 
-I'm currently learning **ReactJS**, **NodeJS**🚀
+I'm currently learning **Rust**, **NodeJS**🚀
 
  ![](https://api.visitorbadge.io/api/VisitorHit?user=wangenze267&repo=github-visitors-badge&countColor=%237B1E7A)
 
