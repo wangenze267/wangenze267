@@ -52,9 +52,9 @@ I'm currently learning **Rust**, **NodeJS**🚀
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=wangenze267&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="Ned's GitHub stats" style="zoom:100%;" align="left"/>
     </td>
-    <td>
-    <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=105972016875911&hide_border=true" alt="掘金账号：是乃德也是Ned" style="zoom:100%;" align="left"/>
-    </td>
+<!--     <td> -->
+<!--     <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=105972016875911&hide_border=true" alt="掘金账号：是乃德也是Ned" style="zoom:100%;" align="left"/> -->
+<!--     </td> -->
   </tr>
 </table>
 
