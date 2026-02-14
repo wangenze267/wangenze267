@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### About Me 
 
-**I'm Ned, a front-end learner✨**
+**I'm Ned, used to be a front-end developer✨**
 
-I'm a passionate **front-end** , working my way up to **full-stack** developer🔖
+Now I'm pursuing my master's degree, focusing on enhancing my product thinking🔖
 
-I'm currently learning **Rust**, **NodeJS**🚀
+I'm currently learning **DL**, **ML**🚀
 
  ![](https://api.visitorbadge.io/api/VisitorHit?user=wangenze267&repo=github-visitors-badge&countColor=%237B1E7A)
 
@@ -35,10 +35,10 @@ I'm currently learning **Rust**, **NodeJS**🚀
 
 **My-Sites：**
 
-- My-Home-Page：[Ned - 主页](https://www.wangez.site/)👀
-- My-Blog：[Ned-博客](https://blog.wangez.site/)🐾
+- My-Home-Page：[Ned - 主页](https://www.wangezd.cn/)👀
+- My-Blog：[Ned-博客](https://blog.wangezd.cn//)🐾
 - My-Juejin: [Ned-掘金](https://juejin.cn/user/105972016875911)🎐
-- My-Note: [Ned-笔记](https://note.wangez.site/)📓
+- My-Note: [Ned-笔记](https://note.wangezd.cn//)📓
 
 ---
 
